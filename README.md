@@ -20,6 +20,11 @@ Seasoned software developer with nearly 9 years of IT experience, specializing i
 | **Version Control**  | Git, GitHub, GitLab, Bitbucket, SVN |  
 | **Misc**  | GRPC, REST, HTTP |  
 
+## 🌐 **Example Sites**  
+
+- [feriadohoy.cl](https://www.feriadohoy.cl)<br/>
+SEO optimized fast static site
+
 ## 🌐 **Get in Conntact**  
 
 Feel free to reach out: [Reach Out!](https://www.linkedin.com/in/nawinpiffel)  
